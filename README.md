@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Practicing-Instagram-Crowling-
-This is my practice instagram crawling
-# Practicing-Crowling
-=======
-# Practicing-Crowling
-This is my repository which practices crowling. 
->>>>>>> e4eba2876b579a16dfbfe71e035120a1498afdc8
+2022년 4월, 텍마 산업 분류하는 공모전 나가는 과정에서 연습함
+# LSTM 대분류, 중분류, 소분류 진행
+
